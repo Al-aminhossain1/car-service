@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "service": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo amet numquam, quisquam atque, debitis repellat fugit dolorum perferendis mollitia saepe fuga nisi consectetur dolorem esse est vero reprehenderit, vitae odio?",
+        "price": "5000.99",
+        "name": "service-maintenance",
+        "img": "https://i.ibb.co/5WnSDTs/close-up-hands-unrecognizable-mechanic-doing-car-service-maintenance.png"
+    },
+    {
+        "id": 2,
+        "service": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo amet numquam, quisquam atque, debitis repellat fugit dolorum perferendis mollitia saepe fuga nisi consectetur dolorem esse est vero reprehenderit, vitae odio?",
+        "price": "4000.99",
+        "name": "car-mechanic-changing",
+        "img": "https://i.ibb.co/k10d9Xx/car-mechanic-changing-wheels-car.png"
+    },
+    {
+        "id": 3,
+        "service": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo amet numquam, quisquam atque, debitis repellat fugit dolorum perferendis mollitia saepe fuga nisi consectetur dolorem esse est vero reprehenderit, vitae odio?",
+        "price": "6600.99",
+        "name": "car-mechanic-polishing",
+        "img": "https://i.ibb.co/j8RjhBY/car-mechanic-polishing-car-before-painting.png"
+    },
+    {
+        "id": 4,
+        "service": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo amet numquam, quisquam atque, debitis repellat fugit dolorum perferendis mollitia saepe fuga nisi consectetur dolorem esse est vero reprehenderit, vitae odio?",
+        "price": "7700.99",
+        "name": "auto-mechanic-working",
+        "img": "https://i.ibb.co/vYfT6ZS/auto-mechanic-working-garage-repair-service.png"
+    },
+    {
+        "id": 5,
+        "service": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo amet numquam, quisquam atque, debitis repellat fugit dolorum perferendis mollitia saepe fuga nisi consectetur dolorem esse est vero reprehenderit, vitae odio?",
+        "price": "9900.99",
+        "name": "muscular-car-service",
+        "img": "https://i.ibb.co/cxLR6c3/muscular-car-service-worker-repairing-vehicle.png"
+    },
+    {
+        "id": 6,
+        "service": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo amet numquam, quisquam atque, debitis repellat fugit dolorum perferendis mollitia saepe fuga nisi consectetur dolorem esse est vero reprehenderit, vitae odio?",
+        "price": "9999.99",
+        "name": "erik-mclean",
+        "img": "https://i.ibb.co/ZTTpCb7/erik-mclean-3u-Hl-GFnz-PDU-unsplash-1-1.png"
+    }
+]
