@@ -1,12 +1,15 @@
 import React from 'react';
+import Benar from './Benar/Benar';
+import Experts from './Experts/Experts';
 import Services from './Services/Services';
 
 const Home = () => {
     return (
         <div>
-            <h1>This is Home</h1>
+            <Benar></Benar>
             <Services></Services>
-        </div>
+            <Experts></Experts>
+        </div >
     );
 };
 

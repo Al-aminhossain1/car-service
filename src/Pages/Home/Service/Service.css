@@ -1,0 +1,11 @@
+.service-container {
+    text-align: center;
+    border: 1px solid grey;
+    border-radius: 10px;
+    background-color: azure;
+}
+
+.service-container img {
+    border-radius: 10px;
+    width: 100%;
+}
